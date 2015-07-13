@@ -5,7 +5,7 @@
     <string name="action_settings">Settings</string>
 
     <string-array name="source_choices">
-        <item>Build-in Sensors</item>
+        <item>Built-in Sensors</item>
         <item>DoorBLE</item>
         <item>SlipperBLE</item>
     </string-array>
